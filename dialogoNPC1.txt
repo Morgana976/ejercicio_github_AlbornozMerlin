@@ -1,3 +1,4 @@
 Hola
 Soy un NPC
 Vos también sos un NPC?
+["dialogoNPC-NO"]

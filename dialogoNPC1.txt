@@ -1,4 +1,4 @@
 Hola
 Soy un NPC
 Vos también sos un NPC?
-["dialogoNPC-SI"]
+["dialogoNPC-SI" , "dialogoNPC-NO"]
